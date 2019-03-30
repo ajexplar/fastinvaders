@@ -1,5 +1,5 @@
 # fastinvaders
-A faster variant of the arcade classic.
+A faster variant of the arcade classic written in Phaser 3.
 
 Plays as you would expect, using left and right arrows for movement and space to fire. 
 
